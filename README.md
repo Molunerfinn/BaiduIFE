@@ -12,6 +12,7 @@ WebGL
   |--No.4
   |--No.5
   |--No.6
+  |--No.7
 ```
 
 ## Demo
@@ -24,5 +25,6 @@ WebGL
 [No.4](https://molunerfinn.github.io/BaiduIFE/2017/WebGL/No.4)  
 [No.5](https://molunerfinn.github.io/BaiduIFE/2017/WebGL/No.5)  
 [No.6](https://molunerfinn.github.io/BaiduIFE/2017/WebGL/No.6)  
+[No.7](https://molunerfinn.github.io/BaiduIFE/2017/WebGL/No.7)  
 
 
