@@ -22,12 +22,13 @@ Observer.prototype.watch = function(key, val){
     configurable: true,
     get: function(){
       console.log('你访问了' + key);
+      return val
     },
     set: function(newVal){
       console.log('你设置了'+key);
       console.log('新的' + key + ' = ' + newVal)
       if(newVal == val) return;
-      val = newVal
+      val = newVal // writeable = false 所以需要将值手动赋予
     }
   })
 }
